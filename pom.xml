@@ -21,8 +21,8 @@
 
     <repositories>
         <repository>
-            <id>private-snapshots</id>
-            <url>https://repo.rapture.pw/repository/private-snapshots/</url>
+            <id>codemc-repo</id>
+            <url>https://repo.codemc.io/repository/nms/</url>
         </repository>
         <repository>
             <id>spigot-repo</id>
